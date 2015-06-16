@@ -1,0 +1,25 @@
+{
+  "name": "subgroups",
+  "version": "1.0.0",
+  "description": "constellational coherence mapping in groups, for a presentation in the AI course at Uni",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminaaron/subgroups.git"
+  },
+  "keywords": [
+    "subgroups"
+  ],
+  "author": "benjaminaaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminaaron/subgroups/issues"
+  },
+  "homepage": "https://github.com/benjaminaaron/subgroups#readme",
+  "dependencies": {
+    "prompt": "*"
+  }
+}

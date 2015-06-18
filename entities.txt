@@ -1,0 +1,6 @@
+hugo
+julia
+fritz
+peter
+anna
+ben

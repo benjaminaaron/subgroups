@@ -1,0 +1,5 @@
+hugo julia peter
+fritz hugo anna
+peter anna
+anna julia ben fritz
+ben julia fritz peter

@@ -1,10 +1,10 @@
 {
   "name": "subgroups",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "constellational coherence mapping in groups, for a presentation in the AI course at Uni",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node run.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,6 @@
   "homepage": "https://github.com/benjaminaaron/subgroups#readme",
   "dependencies": {
     "fs": "*",
-    "prompt": "*",
     "strinc": "*"
   }
 }

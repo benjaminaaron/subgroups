@@ -68,10 +68,12 @@ function createAllSubgroups(){
 		var allmembers = [];
 
 		for(var i in lines)
-			allmembers.push(lines[i]);
+			if(lines[i].length > 0)
+				allmembers.push(lines[i]);
 
 		var binStrings = generateBinStrings(allmembers.length);
 		allSubgroups = generateSubgroups(binStrings, allmembers);
+
 		exportSubgroups(allSubgroups, 'output_allSubgroups');
 	});
 };

@@ -1,6 +1,9 @@
-hugo
-julia
-fritz
-peter
-anna
-ben
+jesus
+steve
+katy
+john
+charlie
+obama
+hermione
+albert
+harry
